@@ -1,0 +1,4 @@
+The number of iterations : 4952
+Training error (number of false predictions on the training data) : 0
+Sum of errors : 0.00499980466096
+Parameter values : theta0 = -155.008037616	theta1 = 71.3858746851	theta2 = 117.64559836	theta3 = 135.303583463
